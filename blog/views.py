@@ -6,36 +6,36 @@ from .models import Post
 def index(request):
 	posts = Post.objects.all();
 	categories = Post.objects.values('category').distinct();
-	context = {
+	contex = {
 		'title':'Home Blog',
 		'content':'ini adalah halaman blog',
 		'Categories':categories,
 		'Posts':posts,
 	}
 
-	return render(request,'blog/index.html',context)
+	return render(request,'blog/index.html',contex)
 
 def categoryPost(request,categoryInput):
 	posts = Post.objects.filter(category=categoryInput);
 	categories = Post.objects.values('category').distinct();
-	context = {
+	contex = {
 		'title':'Home Blog',
-		'Content':'tampilkan berdasarkan category',
+		'content':'tampilkan berdasarkan category',
 		'Categories':categories,
 		'Posts':posts,
 	}
 
-	return render(request,'blog/category.html',context)
+	return render(request,'blog/category.html',contex)
 
 
 def detailPost(request,slugInput):
 	posts = Post.objects.get(slug=slugInput);
 	categories = Post.objects.values('category').distinct();
-	context = {
+	contex = {
 		'title':'Home Blog',
-		'Content':'ini adalah halaman blog',
+		'content':'ini adalah halaman blog',
 		'Categories':categories,
 		'Posts':posts,
 	}
 
-	return render(request,'blog/detail.html',context)
+	return render(request,'blog/detail.html',contex)
