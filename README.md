@@ -1,5 +1,5 @@
 # projectAwal
 Project RPL
 
-#[ Project akhir RPL ] 
+# [ Project akhir RPL ] 
 ## deskripsi
