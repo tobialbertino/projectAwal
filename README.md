@@ -36,3 +36,4 @@ ERD:<br/>
 Hasil implementasi perangkat lunak:<br/>
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
+:blush:
