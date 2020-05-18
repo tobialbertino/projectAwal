@@ -33,7 +33,15 @@ Use case description: <br/>
 Activity diagram:<br/>
 Gantt chart:<br/>
 ERD:<br/>
-Hasil implementasi perangkat lunak:<br/>
+Hasil implementasi perangkat lunak:<br/><br/>
+Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
+Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
+(bisa menambah kategori jika ditemukan kategori yg baru)<br/>
+URL-NameBlog menggunakan sistem sistem SLug<br/><br/>
+frontEnd:<br/>
+1. Efek Paralax <br/>
+2. Perubahan Background <br/>
+3. Navbar <br/>
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
 :blush:
