@@ -47,10 +47,15 @@ Spesifikasi computer :
 ## Analisis user (user profile):
 ## User story :
 ## Use case diagram:
-## Use case description: 
+![](/images/Use case bayar pajak.png)
+## Use case description:
+![](/images/)
 ## Activity diagram:
+![](/images/)
 ## Gantt chart:
+![](/images/)
 ## ERD:
+![](/images/)
 ## Hasil implementasi perangkat lunak:
 * Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
 * Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
@@ -61,6 +66,8 @@ Spesifikasi computer :
   * Perubahan Background <br/>
   * Navbar <br/>
   * URL Name & namespace with slug
+  
+ ![](/images/)
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
 :blush:
