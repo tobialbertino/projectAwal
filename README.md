@@ -25,6 +25,9 @@ Kelompok 4:
   
 ## Ruang lingkup:<br/>
   Warga Indonesia yang memiliki kendaraan bermotor pribadi.
+  
+Spesifikasi computer :
+
 
 ## Deskripsi perangkat lunak:<br/>
   Software yang akan dikembangkan ialah Sistem Pembayaran Pajak secara Online, tidak hanya pembayaran saja. Pengguna juga dapat mengganti Nama Pemilik kendaraan, Warna Kendaraan, dan mengingatkan 1 minggu sebelum pajak kendaraan habis. Dan juga beberapa metode pembayaran seperti melalui transfer bank, Virtual Account bank, e-wallet yang tersedia di Indonesia(go-pay, DANA, OVO).
