@@ -7,9 +7,9 @@ Nama aplikasi : E-Pay VehicleTax (Website) Pembayaran Pajak Kendaraan Bermotor O
 
 Nama kelompok dan anggota :  
   kelompok 4  
-  --> Muhamad Khoiru Tobi Albertino (G64180065)<br/>
-  --> Muhammad Rifqi Hizrian Afri   (G64180073)<br/>
-  --> Yanda Novialdi                (G64180037)<br/>
+  --> Muhamad Khoiru Tobi Albertino_(G64180065)<br/>
+  --> Muhammad Rifqi Hizrian Afri___(G64180073)<br/>
+  --> Yanda Novialdi________________(G64180037)<br/>
 
 Latar belakang:
   Setiap Setahun sekali, warga Indonesia yang memiliki kendaraan bermotor wajib untuk melakukan pembayaran pajak, atau memperpanjang STNK, ditambah dengan pajak 5 tahunan, atau Tanda Nomor Kendaraan Bermotor(TNKB). Ada banyak sekali jumlah kendaraan bermotor di Indonesia, di kutip dari https://www.bps.go.id/, jumlah kendaraan Indonesia di tahun 2018 sebanyak 146.858.759, itu merupakan jumlah yang sangat fantastis.
