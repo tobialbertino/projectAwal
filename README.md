@@ -52,15 +52,15 @@ Spesifikasi computer :
 ## Gantt chart:
 ## ERD:
 ## Hasil implementasi perangkat lunak:
-Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
-Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
-(bisa menambah kategori jika ditemukan kategori yg baru)<br/>
-URL-NameBlog menggunakan sistem sistem SLug<br/><br/>
+* Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
+* Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
+* (bisa menambah kategori jika ditemukan kategori yg baru)<br/>
+* URL-NameBlog menggunakan sistem sistem SLug<br/><br/>
 frontEnd:<br/>
-1. Efek Paralax <br/>
-1. Perubahan Background <br/>
-1. Navbar <br/>
-1. URL Name & namespace with slug
+* Efek Paralax <br/>
+* Perubahan Background <br/>
+* Navbar <br/>
+* URL Name & namespace with slug
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
 :blush:
