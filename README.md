@@ -56,7 +56,6 @@ Spesifikasi computer :
 * Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
 * (bisa menambah kategori jika ditemukan kategori yg baru)<br/>
 * URL-NameBlog menggunakan sistem sistem SLug
-<br/>
 
 frontEnd:
 * Efek Paralax <br/>
