@@ -81,6 +81,7 @@ Spesifikasi computer :
 ![](/images/gambar5.jpg)
 ![](/images/gambar6.jpg)
 ![](/images/gambar7.jpg)
+![](/images/gambar8.jpg)
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
 :blush:
