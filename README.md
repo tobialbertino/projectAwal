@@ -3,7 +3,8 @@ Project RPL with Django 3.0.6 + Posgresql 12.2
 
 # [ Project akhir RPL ] 
 ## deskripsi:
-Nama aplikasi : E-Pay VehicleTax (Website) Pembayaran Pajak Kendaraan Bermotor Online {Tapi Gk Jadi :disappointed: }
+Nama aplikasi : E-Pay VehicleTax (Website) Pembayaran Pajak Kendaraan Bermotor Online {Tapi Gk Jadi :disappointed: }<br/>
+Jadinya : "Simple Blog Web but not Simple" :blush:
 
 Nama kelompok dan anggota :<br/>Kelompok 4:<br/>
 | Nama                          | Nim         |
