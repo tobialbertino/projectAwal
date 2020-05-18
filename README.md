@@ -57,10 +57,10 @@ Spesifikasi computer :
 * (bisa menambah kategori jika ditemukan kategori yg baru)<br/>
 * URL-NameBlog menggunakan sistem sistem SLug
 * frontEnd:
- * Efek Paralax <br/>
- * Perubahan Background <br/>
- * Navbar <br/>
- * URL Name & namespace with slug
+  * Efek Paralax <br/>
+  * Perubahan Background <br/>
+  * Navbar <br/>
+  * URL Name & namespace with slug
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
 :blush:
