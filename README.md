@@ -47,7 +47,7 @@ Spesifikasi computer :
 ## Analisis user (user profile):
 ## User story :
 ## Use case diagram:
-![GitHub Logo](/images/Use case bayar pajak.png)
+![GitHub Logo](projectAwal/images/Use case bayar pajak.png)
 ## Use case description:
 ![](/images/)
 ## Activity diagram:
