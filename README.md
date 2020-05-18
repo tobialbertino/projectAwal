@@ -47,7 +47,7 @@ Spesifikasi computer :
 ## Analisis user (user profile):
 ## User story :
 ## Use case diagram:
-![](/images/Use case bayar pajak.png)
+![gambar](/images/Use case bayar pajak.png)
 ## Use case description:
 ![](/images/)
 ## Activity diagram:
