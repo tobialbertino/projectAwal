@@ -33,3 +33,5 @@ Activity diagram:
 Gantt chart:
 ERD:
 Hasil implementasi perangkat lunak:
+
+	Akhirnya kelompok saya hanya bisa membuat blog sederhana :blush: 
