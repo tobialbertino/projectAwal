@@ -55,8 +55,10 @@ Spesifikasi computer :
 * Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
 * Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
 * (bisa menambah kategori jika ditemukan kategori yg baru)<br/>
-* URL-NameBlog menggunakan sistem sistem SLug<br/><br/>
-frontEnd:<br/>
+* URL-NameBlog menggunakan sistem sistem SLug
+<br/>
+
+frontEnd:
 * Efek Paralax <br/>
 * Perubahan Background <br/>
 * Navbar <br/>
