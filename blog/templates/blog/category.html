@@ -1,31 +1,39 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block Title %}
-{{title}}
+    {{title}}
 {% endblock Title %}
 
+{% block app_css %}
+    <link rel="stylesheet" href="{% static 'blog/css/style.css' %}">
+{% endblock app_css %}
+
+{% block header %}
+<h1 class="display-4">{{title}}</h1>
+<p class="lead">{{subTitle}}</p>
+{% endblock header %}
+
 {% block pageTitle %}
-{{title}}
+<div class="row" style="height: 100px;">
+    <h1>{{title}} </h1>
+</div>
 {% endblock pageTitle %}
 
 {% block contents %}
 {{content}}
-
 <ul class="nav">
-
     <li class="nav-item">
-        <a class="nav-link" href="/blog">
+        <a class="nav-link" href='{% url 'blog:index' %}'>
             All-post
         </a>
-
     </li>
 
     {% for dataCategory in Categories  %}
     <li class="nav-item">
-        <a class="nav-link" href="/blog/category/{{dataCategory.category}}">
+        <a class="nav-link" href="{% url 'blog:categoryPost' categoryInput=dataCategory.category %}">
             {{dataCategory.category}}
-        </a>
-
+        </a> 
     </li>
     {% endfor %}
 </ul>
