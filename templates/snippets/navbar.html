@@ -1,7 +1,10 @@
-<nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-dark">
+{% load static %}
+
+<nav class="navbar fixed-top navbar-expand-sm navbar-dark" id="myNav">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <h1>Kelas Terbuka</h1>
+            <!--<<h1>Kelas Terbuka</h1>-->
+            <img style="height: 40px;" src="{% static 'img/logo.png' %}" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"

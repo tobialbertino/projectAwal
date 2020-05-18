@@ -8,6 +8,7 @@ def index(request):
 	categories = Post.objects.values('category').distinct();
 	contex = {
 		'title':'Home Blog',
+		'subTitle' : 'Blog',
 		'content':'ini adalah halaman blog',
 		'Categories':categories,
 		'Posts':posts,
@@ -20,6 +21,7 @@ def categoryPost(request,categoryInput):
 	categories = Post.objects.values('category').distinct();
 	contex = {
 		'title':'Home Blog',
+		'subTitle' : 'Blog',
 		'content':'tampilkan berdasarkan category',
 		'Categories':categories,
 		'Posts':posts,
@@ -33,6 +35,7 @@ def detailPost(request,slugInput):
 	categories = Post.objects.values('category').distinct();
 	contex = {
 		'title':'Home Blog',
+		'subTitle' : 'Blog',
 		'content':'ini adalah halaman blog',
 		'Categories':categories,
 		'Posts':posts,

@@ -1,11 +1,23 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block Title %}
     {{title}}
 {% endblock Title %}
 
+{% block app_css %}
+    <link rel="stylesheet" href="{% static 'blog/css/style.css' %}">
+{% endblock app_css %}
+
+{% block header %}
+<h1 class="display-4">{{title}}</h1>
+<p class="lead">{{subTitle}}</p>
+{% endblock header %}
+
 {% block pageTitle %}
-    {{title}}
+<div class="row" style="height: 100px;">
+    <h1>{{title}} </h1>
+</div>
 {% endblock pageTitle %}
 
 {% block contents %}
