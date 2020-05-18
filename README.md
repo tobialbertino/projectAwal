@@ -47,15 +47,21 @@ Spesifikasi computer :
 ## Analisis user (user profile):
 ## User story :
 ## Use case diagram:
-![GitHub Logo](projectAwal/images/Use case bayar pajak.png)
+![](/images/Use%20case%20bayar%20pajak.png)
 ## Use case description:
-![](/images/)
+![](/images/Use%20case%20Login.jpg)
+![](/images/Use%20case%20tanggal%20jatuh%20tempo.jpg)
+![](/images/Use%20case%20metode%20pembayaran.jpg)
+![](/images/Use%20case%20cetak%20stnk.jpg)
 ## Activity diagram:
-![](/images/)
+![](/images/activity%20diagram%20login.jpg)
+![](/images/activity%20diagram%20tanggal%20jatuh%20tempo.jpg)
+![](/images/activity%20diagram%20metode%20pembayaran.jpg)
+![](/images/activity%20diagram%20cetak%20stnk.jpg)
 ## Gantt chart:
-![](/images/)
+![](/images/teamgantt.jpg)
 ## ERD:
-![](/images/)
+![](/images/model%20data.jpg)
 ## Hasil implementasi perangkat lunak:
 * Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
 * Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
@@ -66,8 +72,15 @@ Spesifikasi computer :
   * Perubahan Background <br/>
   * Navbar <br/>
   * URL Name & namespace with slug
-  
- ![](/images/)
+
+
+![](/images/gambar1.jpg)
+![](/images/gambar2.jpg)
+![](/images/gambar3.jpg)
+![](/images/gambar4.jpg)
+![](/images/gambar5.jpg)
+![](/images/gambar6.jpg)
+![](/images/gambar7.jpg)
 
 	Akhirnya kelompok saya hanya bisa membuat blog sederhana (:blush:) 
 :blush:
