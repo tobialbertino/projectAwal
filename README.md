@@ -15,7 +15,7 @@ Nama kelompok dan anggota :<br/>Kelompok 4:<br/>
 
 Latar belakang:<br/>
   Setiap Setahun sekali, warga Indonesia yang memiliki kendaraan bermotor wajib untuk melakukan pembayaran pajak, atau memperpanjang STNK, ditambah dengan pajak 5 tahunan, atau Tanda Nomor Kendaraan Bermotor(TNKB). Ada banyak sekali jumlah kendaraan bermotor di Indonesia, di kutip dari https://www.bps.go.id/, jumlah kendaraan Indonesia di tahun 2018 sebanyak 146.858.759, itu merupakan jumlah yang sangat fantastis.
-  Pada saat Seseorang ingin membayar pajak untuk memperpajang STNK,iaharus datang ke Samsat terdekat, kemudian melakukan beberapa tahap hanya untuk membayar pajak. Seperti mengambil nomor antrian, mem-validasi surat-surat kendaraan, mengantri hingga nomor antrian, lalu baru dapat membayar pajak kendaraan.Hal tersebut sangat membuang waktu bukan. Belum lagi jika orang tersebut sibuk dan hanya mempunya waktu di hari minggu (libur), Salah satunya cara adalah dengan menggunakan calo.
+  Pada saat Seseorang ingin membayar pajak untuk memperpajang STNK, warga harus datang ke Samsat terdekat, kemudian melakukan beberapa tahap hanya untuk membayar pajak. Seperti mengambil nomor antrian, mem-validasi surat-surat kendaraan, mengantri hingga nomor antrian, lalu baru dapat membayar pajak kendaraan.Hal tersebut sangat membuang waktu bukan. Belum lagi jika orang tersebut sibuk dan hanya mempunya waktu di hari minggu (libur), Salah satunya cara adalah dengan menggunakan calo.
 	Oleh karena itu, untuk Orang-orang yang memiliki kesibukan, bahkan tidak sempat untuk datang ke samsat, kami ingin membuat website untuk membuat aplikasi sistem pembayaran pajak secara online. Guna untuk mempermudah warga Indoensia untuk melakukan pembayaran pajak.
 
 Tujuan:<br/>
