@@ -1,5 +1,5 @@
 # projectAwal
-### Project RPL with Django 3.0.6 + Postgresql 12.2
+### Project RPL with Django 3.0.6 + PostgreSQL 12.2
 
 # [ Project akhir RPL ] 
 ## deskripsi:
@@ -20,16 +20,28 @@ Kelompok 4:
   Pada saat Seseorang ingin membayar pajak untuk memperpajang STNK, warga harus datang ke Samsat terdekat, kemudian melakukan beberapa tahap hanya untuk membayar pajak. Seperti mengambil nomor antrian, mem-validasi surat-surat kendaraan, mengantri hingga nomor antrian, lalu baru dapat membayar pajak kendaraan.Hal tersebut sangat membuang waktu bukan. Belum lagi jika orang tersebut sibuk dan hanya mempunya waktu di hari minggu (libur), Salah satunya cara adalah dengan menggunakan calo.
 	Oleh karena itu, untuk Orang-orang yang memiliki kesibukan, bahkan tidak sempat untuk datang ke samsat, kami ingin membuat website untuk membuat aplikasi sistem pembayaran pajak secara online. Guna untuk mempermudah warga Indoensia untuk melakukan pembayaran pajak.
 
-## Tujuan:<br/>
+## Tujuan:
   Tujuan software yang ingin kita buat yaitu Untuk mempermudah pembayaran pajak kendaraan bermotor agar lebih fleksibel, dapat  beroperasi selama 24 jam (setiap hari), dapat menghemat ruang dan waktu, mudah digunakan, mempermudah berbagai metode pembayaran. Dan manfaat yang dapat dikembangkannya.
   
-## Ruang lingkup:<br/>
+## Ruang lingkup:
   Warga Indonesia yang memiliki kendaraan bermotor pribadi.
   
 Spesifikasi computer :
+* Perangkat keras:
+   * Processor : Intel® Core™ i5-8250U Processor
+   * Graphic card : Intel® UHD Graphics 620
+   * Memori : 8 GB
+   * Storage : 256GB
+* Perangkat lunak:
+   * Framework/Stack: Django 3.0.6
+   * Database: PostgreSQL
+   * Server: Apa saja
+   * Texteditor / IDE : visual studio code
+* lainnya:
+   * 
 
 
-## Deskripsi perangkat lunak:<br/>
+## Deskripsi perangkat lunak:
   Software yang akan dikembangkan ialah Sistem Pembayaran Pajak secara Online, tidak hanya pembayaran saja. Pengguna juga dapat mengganti Nama Pemilik kendaraan, Warna Kendaraan, dan mengingatkan 1 minggu sebelum pajak kendaraan habis. Dan juga beberapa metode pembayaran seperti melalui transfer bank, Virtual Account bank, e-wallet yang tersedia di Indonesia(go-pay, DANA, OVO).
   
 ## Analisis user (user profile):
@@ -38,7 +50,7 @@ Spesifikasi computer :
 ## Use case description: 
 ## Activity diagram:
 ## Gantt chart:
-## ERD:<
+## ERD:
 ## Hasil implementasi perangkat lunak:
 Sebuah website Blog multiplatform hingga stabil utk versi mobile sekalipun,<br/>
 Tampilan daftar blog bisa di filter sesuai dengan kategori yang tersedia pada blog<br/> 
